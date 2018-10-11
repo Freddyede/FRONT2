@@ -1,3 +1,11 @@
-
+/**         VARIABLES         **/
+/** MAIN.SCSS **/
+/**         MODULES         **/
+/** MAIN.SCSS **/
+#general {
+  border: 1px solid black;
+  width: 80%;
+  margin: 2% auto;
+  min-height: 100px; }
 
 /*# sourceMappingURL=import.css.map */
